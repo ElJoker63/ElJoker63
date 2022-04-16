@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Victor Morejon</h1>
 <h3 align="center">A passionate developer from Cuba</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eljoker63&label=Profile%20views&color=0e75b6&style=flat" alt="eljoker63" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eljoker63&label=Profile%20views&color=0e75b6&style=flat" alt="eljoker63" /> </p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ElJoker63&theme=onedark&row=2&column=3" alt="eljoker63" /></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ElJoker63&theme=onedark&row=2&column=3" alt="eljoker63"></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
