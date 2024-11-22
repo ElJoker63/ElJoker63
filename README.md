@@ -14,7 +14,8 @@
 <a href="https://github.com//ElJoker63/DataFacil/releases/latest"><img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FElJoker63%2Fdatafacil%2Freleases%2Flatest&query=%24.tag_name&style=for-the-badge&label=APP%20datafacil&color=blue">
 </a></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=eljoker63&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="eljoker63" /><img src="https://img.shields.io/github/followers/ElJoker63?style=for-the-badge&label=GitHub%20Followers&color=0e75b6" alt="eljoker63" /> </p>
+<h3 align="center">Profile Statistics</h3>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=eljoker63&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="eljoker63" /><img src="https://img.shields.io/github/followers/ElJoker63?style=for-the-badge&label=GitHub%20Followers&color=0e75b6" alt="eljoker63" /> </p>
 
 <p align="center"> <a href="#" alt="eljoker63"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia&column=3"/></a> </p>
 
