@@ -8,6 +8,9 @@
 <a href="https://github.com//ElJoker63/apkai/releases/latest"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/ElJoker63/apkai/releases/latest&query=%24.tag_name&style=for-the-badge&label=APP GroqCloud&color=F55036
 "/></a>
 <br>
+<a href="https://github.com//ElJoker63/GENTOKENPLUS/releases/latest"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/ElJoker63/GENTOKENPLUS/releases/latest&query=%24.tag_name&style=for-the-badge&label=APP GENTOKENPLUS&color=00aa94
+"/></a>
+<br>
 <a href="https://github.com//ElJoker63/DataFacil/releases/latest"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/ElJoker63/datafacil/releases/latest&query=%24.tag_name&style=for-the-badge&label=APP DATAFACIL&color=blue
 "/></a></p>
 
