@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31jex5y6tm24ygyyurryxfpbpur4&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jex5y6tm24ygyyurryxfpbpur4&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true&profanity=true">
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Victor Morejon</h1>
 <h3 align="center">A passionate developer from Cuba</h3>
 
