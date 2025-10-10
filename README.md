@@ -27,11 +27,21 @@
 
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Systems:</h3>
 <p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,atom,aws,bash,blender,bootstrap,c,cs,cpp,cloudflare,codepen,css,debian,devto,discord,bots,docker,fastapi,firebase,flask,flutter,gcp,git,github,githubactions,gitlab,gradle,heroku,html,js,kali,linux,md,mongodb,netlify,nginx,nodejs,npm,ps,postgres,postman,powershell,py,raspberrypi,replit,sqlite,selenium,ubuntu,unity,unreal,vercel,visualstudio,vscode,windows,wordpress,&theme=dark&perline=8" />
-  </a>
+<img src="https://skillicons.dev/icons?i=apple,arch,bsd,debian,ubuntu,mint,kali,linux,windows,redhat&theme=dark&perline=10" />
+</p>
+<h3 align="center">Tools:</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=androidstudio,anaconda,arduino,atom,bash,blender,bootstrap,bots,codepen,devto,discord,docker,fastapi,flask,flutter,git,github,githubactions,gradle,md,netlify,nginx,nodejs,npm,postman,powershell,ps,raspberrypi,replit,selenium,sublime,tensorflow,unity,unreal,visualstudio,vscode,wordpress,django,laravel&theme=dark&perline=10" />
+</p>
+<h3 align="center">Languages:</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,css,dart,html,js,kotlin,php,python&theme=dark&perline=10" />
+</p>
+<h3 align="center">Platforms:</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,bitbucket,cloudflare,firebase,gcp,gitlab,heroku,mongodb,mysql,postgres,sqlite,supabase,vercel&theme=dark&perline=10" />
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eljoker63&show_icons=true&theme=transparent&langs_count=10&hide_progress=true" alt="eljoker63" /></p>
