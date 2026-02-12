@@ -50,12 +50,12 @@
 <img src="https://skillicons.dev/icons?i=aws,bitbucket,cloudflare,firebase,gcp,gitlab,heroku,mongodb,mysql,postgres,sqlite,supabase,vercel&theme=dark&perline=10" />
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eljoker63&show_icons=true&theme=transparent&langs_count=10&hide_progress=true" alt="eljoker63" /></p>
+<!--p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eljoker63&show_icons=true&theme=transparent&langs_count=10&hide_progress=true" alt="eljoker63" /></p-->
 
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eljoker63&show_icons=true&theme=transparent" alt="eljoker63" /></p>
+<!--p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eljoker63&show_icons=true&theme=transparent" alt="eljoker63" /></p-->
 
 <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eljoker63&theme=transparent" alt="eljoker63" /></p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/106864876/179424426-29262e35-ab7b-4701-8ce3-8ed7db3d592b.svg"></p>
+<p align="center"><img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ElJoker63/ElJoker63/output/pacman-contribution-graph.svg"></p>
