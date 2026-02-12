@@ -82,7 +82,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElJoker63&radius=15&theme=github-dark-dimmed&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
-<p align="center"><img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ElJoker63/ElJoker63/output/pacman-contribution-graph.svg"></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElJoker63/ElJoker63/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ElJoker63/ElJoker63/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ElJoker63/ElJoker63/output/pacman-contribution-graph.svg">
+</picture>
 
 <div align="center">
   <a href="https://open.spotify.com/user/31jex5y6tm24ygyyurryxfpbpur4">
