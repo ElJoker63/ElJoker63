@@ -17,17 +17,20 @@
 
 <h3 align="center" style="color: #5000D4">Latests projects</h3>
 <p align="center"><a href="https://github.com//ElJoker63/Cambio-actual/releases/latest">
-<img src="https://raw.githubusercontent.com/ElJoker63/cambio-actual/refs/heads/main/assets/icon.png" height="50"><br>
+<img src="https://raw.githubusercontent.com/ElJoker63/cambio-actual/refs/heads/main/assets/icon.png" height="30">
 <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FElJoker63%2FCambio-actual%2Freleases%2Flatest&query=%24.tag_name&style=for-the-badge&label=APP%20CAMBIO%20ACTUAL&color=blue">
 </a>
 <br>
-<a href="https://github.com//ElJoker63/apkai/releases/latest"><img src="https://raw.githubusercontent.com/ElJoker63/APKAI/refs/heads/main/assets/icon.png" height="50"><br><img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FElJoker63%2Fapkai%2Freleases%2Flatest&query=%24.tag_name&style=for-the-badge&label=APP%20Groqcloud&color=F55036">
+<a href="https://github.com//ElJoker63/apkai/releases/latest"><img src="https://raw.githubusercontent.com/ElJoker63/APKAI/refs/heads/main/assets/icon.png" height="30">
+<img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FElJoker63%2Fapkai%2Freleases%2Flatest&query=%24.tag_name&style=for-the-badge&label=APP%20Groqcloud&color=F55036">
 </a>
 <br>
-<a href="https://github.com//ElJoker63/GENTOKENPLUS/releases/latest"><img src="https://raw.githubusercontent.com/ElJoker63/GENTOKENPLUS/refs/heads/main/assets/icon.png" height="50"><br><img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FElJoker63%2FGENTOKENPLUS%2Freleases%2Flatest&query=%24.tag_name&style=for-the-badge&label=APP%20GENTOKENPLUS&color=00aa94">
+<a href="https://github.com//ElJoker63/GENTOKENPLUS/releases/latest"><img src="https://raw.githubusercontent.com/ElJoker63/GENTOKENPLUS/refs/heads/main/assets/icon.png" height="30">
+<img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FElJoker63%2FGENTOKENPLUS%2Freleases%2Flatest&query=%24.tag_name&style=for-the-badge&label=APP%20GENTOKENPLUS&color=00aa94">
 </a>
 <br>
-<a href="https://github.com//ElJoker63/DataFacil/releases/latest"><img src="https://raw.githubusercontent.com/ElJoker63/DataFacil/refs/heads/gh-pages/images/icon.png" height="50"><br><img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FElJoker63%2Fdatafacil%2Freleases%2Flatest&query=%24.tag_name&style=for-the-badge&label=APP%20datafacil&color=bb0000">
+<a href="https://github.com//ElJoker63/DataFacil/releases/latest"><img src="https://raw.githubusercontent.com/ElJoker63/DataFacil/refs/heads/gh-pages/images/icon.png" height="30">
+<img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FElJoker63%2Fdatafacil%2Freleases%2Flatest&query=%24.tag_name&style=for-the-badge&label=APP%20datafacil&color=bb0000">
 </a></p>
 
 <h3 align="center">Profile Statistics</h3>
