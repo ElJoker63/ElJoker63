@@ -1,19 +1,16 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5000D4,100:5000D4&height=180&section=header&text=ElJoker63&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20|%20Infrastructure%20|%20Automation&descAlignY=60"  />
 </div>
-<!--div align="right">
-  <img height="200" src="https://raw.githubusercontent.com/ElJoker63/ElJoker63/refs/heads/main/img/me.png"  />
-</div-->
 
-<!--p align="center">
+<p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31jex5y6tm24ygyyurryxfpbpur4&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jex5y6tm24ygyyurryxfpbpur4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jex5y6tm24ygyyurryxfpbpur4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=5000D4&bar_color_cover=true">
   </a>
-</p-->
+</p>
 
 
-<h1 align="center" style="color: #5000D4">Hi 👋, I'm Victor Morejon</h1>
-<h3 align="center" style="color: #5000D4">A passionate developer from Cuba</h3>
+<!--h1 align="center" style="color: #5000D4">Hi 👋, I'm Victor Morejon</h1-->
+<!--h3 align="center" style="color: #5000D4">A passionate developer from Cuba</h3-->
 
 <h3 align="center" style="color: #5000D4">Latests projects</h3>
 <p align="center"><a href="https://github.com//ElJoker63/Cambio-actual/releases/latest">
