@@ -1,9 +1,9 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=9&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=260069"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5000D4,100:5000D4&height=180&section=header&text=ElJoker63&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20|%20Infrastructure%20|%20Automation&descAlignY=60"  />
 </div>
-<div align="right">
+<!--div align="right">
   <img height="200" src="https://raw.githubusercontent.com/ElJoker63/ElJoker63/refs/heads/main/img/me.png"  />
-</div>
+</div-->
 
 <!--p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31jex5y6tm24ygyyurryxfpbpur4&redirect=true">
@@ -102,5 +102,5 @@
 </div>
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=9&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=260069"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=9&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=5000D4"  />
 </div>
