@@ -14,7 +14,7 @@
 
 <h3 align="center" style="color: #5000D4">Latests projects</h3>
 <p align="center"><a href="https://github.com//ElJoker63/Cambio-actual/releases/latest">
-<img src="https://raw.githubusercontent.com/ElJoker63/cambio-actual/refs/heads/main/assets/icon.png" height="30">
+<img src="https://raw.githubusercontent.com/ElJoker63/cambio-actual/refs/heads/main/app/cambio-actual/main/res/mipmap-hdpi/ic_launcher_foreground.webp" height="30">
 <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FElJoker63%2FCambio-actual%2Freleases%2Flatest&query=%24.tag_name&style=for-the-badge&label=APP%20CAMBIO%20ACTUAL&color=blue">
 </a>
 <br>
